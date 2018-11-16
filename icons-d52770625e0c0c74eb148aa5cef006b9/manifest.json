@@ -5,10 +5,10 @@
   "dir": "auto",
   "lang": "en-US",
   "display": "standalone",
-  "orientation": "any",
+  "orientation": "portrait",
   "start_url": "/?homescreen=1",
-  "background_color": "#008B79",
-  "theme_color": "#ffffff",
+  "background_color": "#245F57",
+  "theme_color": "#000000",
   "icons": [
     {
       "src": "/icons-d52770625e0c0c74eb148aa5cef006b9/android-chrome-36x36.png",
