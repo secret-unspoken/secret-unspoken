@@ -1,5 +1,19 @@
 User-agent: *
 Allow: /
+
+User-agent: *
+Disallow: /me
+
+User-agent: *
+Disallow: /mission
+
+User-agent: *
+Disallow: /subscribe
+
+User-agent: *
+Disallow: /posts$
+
+User-agent: *
 Disallow: /posts/$
 Sitemap: https://secret-unspoken.github.io/rss.xml
 Host: https://secret-unspoken.github.io
